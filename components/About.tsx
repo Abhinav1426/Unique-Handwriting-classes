@@ -3,7 +3,8 @@ import Image from 'next/image'
 const schools = [
   { name: 'Swaminarayan Gurukul', icon: '🏫' },
   { name: 'Sujatha School', icon: '🏫' },
-  { name: 'Niraj International School', icon: '🏫' },
+  { name: 'Niraj Public School', icon: '🏫' },
+  { name: 'Neelkanth Vidyapeeth International School (CBSE)', icon: '🏫' },
 ]
 
 export default function About() {
