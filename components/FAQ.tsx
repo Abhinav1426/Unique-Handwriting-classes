@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     q: 'Where are the classes located?',
-    a: 'We are located at Shivaji Nagar, Sanath Nagar, Hyderabad, Telangana 500018. Families from across Hyderabad attend our classes.',
+    a: 'We are located at Sanath Nagar, Hyderabad, Telangana 500018. Families from across Hyderabad attend our classes.',
   },
   {
     q: 'How can parents contact Unique Handwriting Classes?',

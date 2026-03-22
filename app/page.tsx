@@ -3,6 +3,7 @@ import Hero from '@/components/Hero'
 import WhyChooseUs from '@/components/WhyChooseUs'
 import About from '@/components/About'
 import Features from '@/components/Features'
+import WatchAndLearn from '@/components/WatchAndLearn'
 import Practice from '@/components/Practice'
 import Benefits from '@/components/Benefits'
 // import Gallery from '@/components/Gallery'
@@ -23,6 +24,7 @@ export default function Home() {
         <WhyChooseUs />
         <About />
         <Features />
+        <WatchAndLearn />
         <Practice />
         <Benefits />
         {/* <Gallery /> */}

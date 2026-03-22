@@ -8,12 +8,12 @@ export default function LocalSEO() {
             <div className="section-label mb-5">Local Classes</div>
             <h2 className="heading-display text-navy text-3xl sm:text-4xl lg:text-5xl mb-6 text-balance">
               Handwriting Classes in{' '}
-              <span className="text-amber">Sanath Nagar, Hyderabad</span>
+              <span className="text-amber">Hyderabad</span>
             </h2>
             <div className="space-y-4 text-charcoal/80 leading-relaxed">
               <p>
                 If you are a parent in or around{' '}
-                <strong className="text-navy">Shivaji Nagar, Sanath Nagar, Hyderabad</strong>,
+                <strong className="text-navy">Hyderabad</strong>,
                 Unique Handwriting Classes is conveniently located and easily accessible from
                 surrounding areas in Hyderabad, Telangana.
               </p>
