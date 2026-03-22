@@ -45,7 +45,7 @@ export default function Hero() {
         <div className="flex flex-wrap justify-center gap-8 mb-10">
           {[
             { value: '15+', label: 'Years Experience' },
-            { value: '3', label: 'Reputed Schools' },
+            { value: '5', label: 'Reputed Schools' },
             { value: '5.0', label: 'Google Rating' },
           ].map((stat) => (
             <div key={stat.label} className="text-center">
