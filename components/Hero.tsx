@@ -46,12 +46,10 @@ export default function Hero() {
           {[
             { value: '15+', label: 'Years Experience' },
             { value: '5', label: 'Reputed Schools' },
-            { value: '5.0', label: 'Google Rating' },
           ].map((stat) => (
             <div key={stat.label} className="text-center">
               <div className="font-cormorant font-700 text-3xl text-navy leading-none">
                 {stat.value}
-                <span className="text-amber">★</span>
               </div>
               <div className="text-xs text-muted font-medium mt-0.5">{stat.label}</div>
             </div>
@@ -109,14 +107,6 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* Scroll indicator */}
-      <div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1 text-muted opacity-60"
-        aria-hidden="true"
-      >
-        <span className="text-xs tracking-widest uppercase font-medium">Scroll</span>
-        <div className="w-0.5 h-8 bg-gradient-to-b from-muted to-transparent rounded-full" />
-      </div>
     </section>
   )
 }
