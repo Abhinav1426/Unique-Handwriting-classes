@@ -87,7 +87,6 @@ export default function FinalCTA() {
         <div className="flex flex-wrap justify-center gap-6 mt-12 pt-12 border-t border-white/10">
           {[
             { label: '15+ Years', sub: 'Teaching Experience' },
-            { label: '5.0 ★', sub: 'Google Rating' },
             { label: 'Hyderabad', sub: 'Sanath Nagar · 500018' },
           ].map((item) => (
             <div key={item.label} className="text-center">

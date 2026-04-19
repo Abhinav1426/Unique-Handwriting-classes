@@ -38,16 +38,8 @@ export default function Footer() {
               Expert cursive handwriting and handwriting improvement classes for children in
               Hyderabad, Telangana. Building neat, confident writers — one child at a time.
             </p>
-            <div className="flex items-center gap-2 text-white/50 text-xs mb-4">
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                <path
-                  d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-                  stroke="#E8963A"
-                  strokeWidth="2"
-                  fill="#E8963A"
-                />
-              </svg>
-              <span>5.0 Google Rating · 10 Reviews</span>
+            <div className="text-white/50 text-xs mb-4">
+              Trusted by Hyderabad Families
             </div>
             <a
               href="https://www.youtube.com/@madhu7786"
